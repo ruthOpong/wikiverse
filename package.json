@@ -13,12 +13,12 @@
     "dotenv": "16.0.0",
     "express": "^4.17.1",
     "morgan": "1.10.0",
-    "nodemon": "^2.0.19",
-    "parcel": "^2.7.0",
+    "nodemon": "^2.0.22",
+    "parcel": "^2.10.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "sequelize": "^6.23.2",
-    "sqlite3": "^5.1.1"
+    "sequelize": "^6.35.0",
+    "sqlite3": "^5.1.6"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.15.0",
@@ -26,6 +26,7 @@
     "@testing-library/react": "^12.0.0",
     "babel-jest": "^27.1.0",
     "jest": "^27.1.0",
+    "process": "^0.11.10",
     "react-test-renderer": "18.2.0"
   }
 }
