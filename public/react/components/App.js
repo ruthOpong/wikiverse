@@ -9,7 +9,8 @@ import apiURL from '../api';
 export const App = () => {
 
 	const [pages, setPages] = useState([]);
-	const [article, setArticle] = useState([{title: "",
+	const [article, setArticle] = useState([{author:{name:"", email: ""},
+		title: "",
 		content: "",
 		name: "",
 		email: "",
